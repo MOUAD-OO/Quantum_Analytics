@@ -1,0 +1,7674 @@
+{
+  "283641": {
+    "x": 1073.6089108910892,
+    "y": 533.9554455445541,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "air"
+  },
+  "283642": {
+    "x": 1042.0,
+    "y": 527.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283643": {
+    "x": 1010.0,
+    "y": 509.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283644": {
+    "x": 981.0,
+    "y": 498.5,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283645": {
+    "x": 952.0,
+    "y": 488.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283646": {
+    "x": 936.0,
+    "y": 485.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283647": {
+    "x": 912.0,
+    "y": 470.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283648": {
+    "x": 893.0,
+    "y": 468.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283649": {
+    "x": 866.0,
+    "y": 460.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283650": {
+    "x": 857.0,
+    "y": 457.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283651": {
+    "x": 836.0,
+    "y": 453.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283652": {
+    "x": 820.0,
+    "y": 447.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283653": {
+    "x": 807.0,
+    "y": 445.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283654": {
+    "x": 792.0,
+    "y": 442.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283655": {
+    "x": 774.0,
+    "y": 437.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283656": {
+    "x": 768.0,
+    "y": 436.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283657": {
+    "x": 755.0,
+    "y": 436.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283658": {
+    "x": 742.0,
+    "y": 435.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283659": {
+    "x": 731.0,
+    "y": 432.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283660": {
+    "x": 725.8366336633661,
+    "y": 432.4702970297028,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "air"
+  },
+  "283661": {
+    "x": 713.0,
+    "y": 416.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283662": {
+    "x": 708.0,
+    "y": 400.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283663": {
+    "x": 702.0,
+    "y": 385.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283664": {
+    "x": 695.0,
+    "y": 371.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283665": {
+    "x": 686.0,
+    "y": 357.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283666": {
+    "x": 681.0,
+    "y": 345.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283667": {
+    "x": 677.0,
+    "y": 334.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283668": {
+    "x": 672.0,
+    "y": 323.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283669": {
+    "x": 665.0,
+    "y": 310.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283670": {
+    "x": 660.0881188118811,
+    "y": 302.3158415841584,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283671": {
+    "x": 655.1762376237623,
+    "y": 294.6316831683167,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283672": {
+    "x": 650.2643564356434,
+    "y": 286.94752475247503,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283673": {
+    "x": 645.3524752475246,
+    "y": 279.2633663366334,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283674": {
+    "x": 640.4405940594057,
+    "y": 271.57920792079176,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "283675": {
+    "x": 646.4038778877886,
+    "y": 275.11427392739245,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283676": {
+    "x": 652.3671617161715,
+    "y": 278.64933993399313,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283677": {
+    "x": 658.3304455445543,
+    "y": 282.1844059405938,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283678": {
+    "x": 664.2937293729372,
+    "y": 285.7194719471945,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283679": {
+    "x": 670.25701320132,
+    "y": 289.2545379537952,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283680": {
+    "x": 676.2202970297028,
+    "y": 292.7896039603959,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283681": {
+    "x": 682.1835808580857,
+    "y": 296.32466996699657,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283682": {
+    "x": 688.1468646864686,
+    "y": 299.85973597359725,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283683": {
+    "x": 694.1101485148514,
+    "y": 303.39480198019794,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283684": {
+    "x": 700.0734323432343,
+    "y": 306.9298679867986,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283685": {
+    "x": 706.0367161716172,
+    "y": 310.4649339933993,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283686": {
+    "x": 712.0,
+    "y": 314.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283687": {
+    "x": 723.0,
+    "y": 321.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283688": {
+    "x": 730.0,
+    "y": 328.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283689": {
+    "x": 734.0,
+    "y": 335.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283690": {
+    "x": 742.0,
+    "y": 343.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283691": {
+    "x": 753.0,
+    "y": 351.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283692": {
+    "x": 759.0,
+    "y": 358.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283693": {
+    "x": 767.0,
+    "y": 369.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283694": {
+    "x": 774.0,
+    "y": 379.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283695": {
+    "x": 782.0,
+    "y": 387.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283696": {
+    "x": 790.0,
+    "y": 399.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283697": {
+    "x": 800.0,
+    "y": 411.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283698": {
+    "x": 803.0,
+    "y": 421.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283699": {
+    "x": 815.0,
+    "y": 434.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283700": {
+    "x": 824.0,
+    "y": 448.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283701": {
+    "x": 828.0,
+    "y": 461.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283702": {
+    "x": 835.0,
+    "y": 474.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283703": {
+    "x": 849.0,
+    "y": 491.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283704": {
+    "x": 855.0,
+    "y": 504.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283705": {
+    "x": 862.0,
+    "y": 520.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283706": {
+    "x": 873.0,
+    "y": 537.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283707": {
+    "x": 879.0,
+    "y": 554.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283708": {
+    "x": 890.0,
+    "y": 569.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283709": {
+    "x": 897.0,
+    "y": 591.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283710": {
+    "x": 908.0,
+    "y": 609.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283711": {
+    "x": 918.0,
+    "y": 630.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283712": {
+    "x": 925.0,
+    "y": 649.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283713": {
+    "x": 935.0,
+    "y": 668.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283714": {
+    "x": 944.0,
+    "y": 688.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283715": {
+    "x": 954.0,
+    "y": 713.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283716": {
+    "x": 956.0,
+    "y": 731.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283717": {
+    "x": 972.0,
+    "y": 759.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283718": {
+    "x": 974.59900990099,
+    "y": 759.2029702970294,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "bounce"
+  },
+  "283719": {
+    "x": 980.8991336633662,
+    "y": 760.4275990099007,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283720": {
+    "x": 987.1992574257424,
+    "y": 761.6522277227721,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283721": {
+    "x": 993.4993811881188,
+    "y": 762.8768564356434,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283722": {
+    "x": 999.799504950495,
+    "y": 764.1014851485147,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283723": {
+    "x": 1006.0996287128712,
+    "y": 765.326113861386,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283724": {
+    "x": 1012.3997524752476,
+    "y": 766.5507425742574,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283725": {
+    "x": 1018.6998762376236,
+    "y": 767.7753712871287,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283726": {
+    "x": 1025.0,
+    "y": 769.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283727": {
+    "x": 1031.0,
+    "y": 772.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283728": {
+    "x": 1034.0,
+    "y": 774.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283729": {
+    "x": 1042.0,
+    "y": 779.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283730": {
+    "x": 1047.0,
+    "y": 786.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283731": {
+    "x": 1055.0,
+    "y": 789.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283732": {
+    "x": 1063.0,
+    "y": 796.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283733": {
+    "x": 1064.9455445544554,
+    "y": 797.5693069306928,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "283734": {
+    "x": 1066.0,
+    "y": 753.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283735": {
+    "x": 1068.0,
+    "y": 723.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283736": {
+    "x": 1070.0,
+    "y": 682.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283737": {
+    "x": 1072.0,
+    "y": 656.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283738": {
+    "x": 1072.0,
+    "y": 633.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283739": {
+    "x": 1072.0,
+    "y": 606.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283740": {
+    "x": 1073.0,
+    "y": 584.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283741": {
+    "x": 1075.0,
+    "y": 565.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283742": {
+    "x": 1074.0,
+    "y": 545.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283743": {
+    "x": 1075.0,
+    "y": 527.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283744": {
+    "x": 1076.0,
+    "y": 512.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283745": {
+    "x": 1076.0,
+    "y": 497.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283746": {
+    "x": 1082.0,
+    "y": 485.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283747": {
+    "x": 1082.0,
+    "y": 470.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283748": {
+    "x": 1083.0,
+    "y": 459.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283749": {
+    "x": 1084.0,
+    "y": 452.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283750": {
+    "x": 1084.0,
+    "y": 442.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283751": {
+    "x": 1084.0,
+    "y": 433.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283752": {
+    "x": 1085.0,
+    "y": 425.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283753": {
+    "x": 1086.0,
+    "y": 419.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283754": {
+    "x": 1087.0,
+    "y": 413.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283755": {
+    "x": 1086.0,
+    "y": 408.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283756": {
+    "x": 1088.0,
+    "y": 404.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283757": {
+    "x": 1089.0,
+    "y": 398.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283758": {
+    "x": 1088.0,
+    "y": 395.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283759": {
+    "x": 1090.0,
+    "y": 393.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283760": {
+    "x": 1091.0,
+    "y": 388.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283761": {
+    "x": 1091.0,
+    "y": 386.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283762": {
+    "x": 1092.0,
+    "y": 385.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283763": {
+    "x": 1096.0,
+    "y": 385.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283764": {
+    "x": 1095.9772277227723,
+    "y": 385.5831683168316,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283765": {
+    "x": 1095.954455445545,
+    "y": 386.16633663366326,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283766": {
+    "x": 1095.9316831683168,
+    "y": 386.74950495049495,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283767": {
+    "x": 1095.9089108910891,
+    "y": 387.3326732673266,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283768": {
+    "x": 1095.8861386138617,
+    "y": 387.9158415841582,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "air"
+  },
+  "283769": {
+    "x": 1097.4430693069307,
+    "y": 384.4579207920791,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283770": {
+    "x": 1099.0,
+    "y": 381.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283771": {
+    "x": 1098.0,
+    "y": 372.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283772": {
+    "x": 1099.0,
+    "y": 359.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283773": {
+    "x": 1099.0,
+    "y": 351.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283774": {
+    "x": 1099.0,
+    "y": 343.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283775": {
+    "x": 1099.0,
+    "y": 333.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283776": {
+    "x": 1100.0,
+    "y": 325.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283777": {
+    "x": 1101.0,
+    "y": 318.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283778": {
+    "x": 1101.0,
+    "y": 310.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283779": {
+    "x": 1100.0,
+    "y": 303.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283780": {
+    "x": 1103.0,
+    "y": 298.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283781": {
+    "x": 1102.0,
+    "y": 291.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283782": {
+    "x": 1101.0,
+    "y": 285.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283783": {
+    "x": 1102.0,
+    "y": 281.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283784": {
+    "x": 1103.0,
+    "y": 275.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283785": {
+    "x": 1102.6666666666667,
+    "y": 271.3333333333333,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283786": {
+    "x": 1102.3333333333333,
+    "y": 267.6666666666667,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283787": {
+    "x": 1102.0,
+    "y": 264.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "hit"
+  },
+  "283788": {
+    "x": 1100.8366336633662,
+    "y": 260.4405940594056,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "air"
+  },
+  "283789": {
+    "x": 1095.3529702970295,
+    "y": 262.2965346534651,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283790": {
+    "x": 1089.869306930693,
+    "y": 264.1524752475245,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283791": {
+    "x": 1084.3856435643563,
+    "y": 266.00841584158394,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283792": {
+    "x": 1078.9019801980198,
+    "y": 267.86435643564334,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283793": {
+    "x": 1073.4183168316831,
+    "y": 269.7202970297028,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283794": {
+    "x": 1067.9346534653464,
+    "y": 271.57623762376227,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283795": {
+    "x": 1062.45099009901,
+    "y": 273.4321782178217,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283796": {
+    "x": 1056.9673267326732,
+    "y": 275.28811881188113,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283797": {
+    "x": 1051.4836633663367,
+    "y": 277.14405940594054,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283798": {
+    "x": 1046.0,
+    "y": 279.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283799": {
+    "x": 1042.0,
+    "y": 280.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283800": {
+    "x": 1037.0,
+    "y": 287.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283801": {
+    "x": 1031.0,
+    "y": 291.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283802": {
+    "x": 1026.0,
+    "y": 295.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283803": {
+    "x": 1022.0,
+    "y": 298.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283804": {
+    "x": 1013.0,
+    "y": 305.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283805": {
+    "x": 1007.0,
+    "y": 310.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283806": {
+    "x": 1003.0,
+    "y": 317.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283807": {
+    "x": 996.0,
+    "y": 324.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283808": {
+    "x": 987.0,
+    "y": 329.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283809": {
+    "x": 984.0,
+    "y": 335.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283810": {
+    "x": 978.0,
+    "y": 344.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283811": {
+    "x": 970.0,
+    "y": 353.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283812": {
+    "x": 965.0,
+    "y": 362.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283813": {
+    "x": 956.0,
+    "y": 370.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283814": {
+    "x": 951.0,
+    "y": 377.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283815": {
+    "x": 944.0,
+    "y": 387.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283816": {
+    "x": 939.0,
+    "y": 396.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283817": {
+    "x": 927.0,
+    "y": 409.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283818": {
+    "x": 925.0,
+    "y": 418.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283819": {
+    "x": 916.0,
+    "y": 430.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283820": {
+    "x": 909.0,
+    "y": 442.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283821": {
+    "x": 904.0,
+    "y": 455.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283822": {
+    "x": 893.0,
+    "y": 469.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283823": {
+    "x": 887.0,
+    "y": 484.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283824": {
+    "x": 881.0,
+    "y": 496.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283825": {
+    "x": 873.0,
+    "y": 508.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283826": {
+    "x": 863.0,
+    "y": 525.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283827": {
+    "x": 857.0,
+    "y": 537.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283828": {
+    "x": 849.0,
+    "y": 554.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283829": {
+    "x": 842.0,
+    "y": 572.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283830": {
+    "x": 833.0,
+    "y": 588.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283831": {
+    "x": 825.0,
+    "y": 606.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283832": {
+    "x": 816.0,
+    "y": 624.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283833": {
+    "x": 806.0,
+    "y": 641.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283834": {
+    "x": 801.0,
+    "y": 658.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283835": {
+    "x": 791.0,
+    "y": 682.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283836": {
+    "x": 783.0,
+    "y": 700.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283837": {
+    "x": 772.0,
+    "y": 722.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283838": {
+    "x": 766.0,
+    "y": 742.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283839": {
+    "x": 756.7772277227722,
+    "y": 755.4900990099009,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "bounce"
+  },
+  "283840": {
+    "x": 753.0,
+    "y": 752.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "bounce"
+  },
+  "283841": {
+    "x": 745.0,
+    "y": 747.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283842": {
+    "x": 738.5,
+    "y": 745.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283843": {
+    "x": 732.0,
+    "y": 743.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283844": {
+    "x": 726.8333333333334,
+    "y": 743.6666666666666,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283845": {
+    "x": 721.6666666666666,
+    "y": 744.3333333333334,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283846": {
+    "x": 716.5,
+    "y": 745.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283847": {
+    "x": 711.3333333333334,
+    "y": 745.6666666666666,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283848": {
+    "x": 706.1666666666666,
+    "y": 746.3333333333334,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283849": {
+    "x": 701.0,
+    "y": 747.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283850": {
+    "x": 693.0,
+    "y": 746.5,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283851": {
+    "x": 685.0,
+    "y": 746.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283852": {
+    "x": 679.0,
+    "y": 747.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283853": {
+    "x": 671.0,
+    "y": 749.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283854": {
+    "x": 666.0,
+    "y": 754.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283855": {
+    "x": 657.0,
+    "y": 757.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283856": {
+    "x": 652.0,
+    "y": 763.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283857": {
+    "x": 647.8663366336633,
+    "y": 762.9158415841582,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "283858": {
+    "x": 663.0,
+    "y": 746.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283859": {
+    "x": 698.0,
+    "y": 706.5,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283860": {
+    "x": 733.0,
+    "y": 667.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283861": {
+    "x": 757.0,
+    "y": 645.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283862": {
+    "x": 785.0,
+    "y": 614.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283863": {
+    "x": 802.0,
+    "y": 594.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283864": {
+    "x": 817.0,
+    "y": 581.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283865": {
+    "x": 843.0,
+    "y": 552.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283866": {
+    "x": 861.0,
+    "y": 534.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283867": {
+    "x": 875.0,
+    "y": 524.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283868": {
+    "x": 894.0,
+    "y": 505.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283869": {
+    "x": 910.0,
+    "y": 490.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283870": {
+    "x": 923.0,
+    "y": 479.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283871": {
+    "x": 936.0,
+    "y": 470.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283872": {
+    "x": 952.0,
+    "y": 456.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283873": {
+    "x": 964.0,
+    "y": 447.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283874": {
+    "x": 980.0,
+    "y": 438.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283875": {
+    "x": 987.0,
+    "y": 429.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283876": {
+    "x": 1001.0,
+    "y": 422.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283877": {
+    "x": 1013.0,
+    "y": 416.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283878": {
+    "x": 1023.0,
+    "y": 409.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283879": {
+    "x": 1033.0,
+    "y": 405.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283880": {
+    "x": 1043.0,
+    "y": 399.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283881": {
+    "x": 1053.0,
+    "y": 395.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283882": {
+    "x": 1061.0,
+    "y": 392.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283883": {
+    "x": 1071.0,
+    "y": 388.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283884": {
+    "x": 1076.0,
+    "y": 385.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283885": {
+    "x": 1086.0,
+    "y": 385.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283886": {
+    "x": 1094.0,
+    "y": 382.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283887": {
+    "x": 1100.0,
+    "y": 379.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283888": {
+    "x": 1106.0,
+    "y": 380.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283889": {
+    "x": 1116.0,
+    "y": 380.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283890": {
+    "x": 1121.0,
+    "y": 379.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283891": {
+    "x": 1129.0,
+    "y": 380.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283892": {
+    "x": 1135.0,
+    "y": 381.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283893": {
+    "x": 1142.0,
+    "y": 381.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283894": {
+    "x": 1148.0,
+    "y": 384.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283895": {
+    "x": 1154.0544554455446,
+    "y": 382.9653465346533,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "air"
+  },
+  "283896": {
+    "x": 1158.0,
+    "y": 377.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283897": {
+    "x": 1161.0,
+    "y": 368.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283898": {
+    "x": 1165.0,
+    "y": 357.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283899": {
+    "x": 1165.0,
+    "y": 348.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283900": {
+    "x": 1173.0,
+    "y": 340.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283901": {
+    "x": 1178.0,
+    "y": 330.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283902": {
+    "x": 1181.0,
+    "y": 322.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283903": {
+    "x": 1186.0,
+    "y": 314.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283904": {
+    "x": 1189.0,
+    "y": 305.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283905": {
+    "x": 1191.0,
+    "y": 302.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283906": {
+    "x": 1194.0,
+    "y": 296.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283907": {
+    "x": 1196.0,
+    "y": 288.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283908": {
+    "x": 1197.0,
+    "y": 282.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283909": {
+    "x": 1206.0,
+    "y": 279.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283910": {
+    "x": 1208.0,
+    "y": 274.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283911": {
+    "x": 1211.25,
+    "y": 270.25,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283912": {
+    "x": 1214.5,
+    "y": 266.5,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283913": {
+    "x": 1217.75,
+    "y": 262.75,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283914": {
+    "x": 1221.0,
+    "y": 259.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "hit"
+  },
+  "283915": {
+    "x": 1223.0,
+    "y": 256.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283916": {
+    "x": 1225.0,
+    "y": 253.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283917": {
+    "x": 1227.2747524752476,
+    "y": 251.76980198019783,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283918": {
+    "x": 1229.5495049504952,
+    "y": 250.53960396039565,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "283919": {
+    "x": 1225.7747524752476,
+    "y": 244.26980198019783,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283920": {
+    "x": 1222.0,
+    "y": 238.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "hit"
+  },
+  "283921": {
+    "x": 1217.0,
+    "y": 236.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283922": {
+    "x": 1210.0,
+    "y": 233.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283923": {
+    "x": 1203.7142857142858,
+    "y": 231.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283924": {
+    "x": 1197.428571428571,
+    "y": 229.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283925": {
+    "x": 1191.142857142857,
+    "y": 227.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283926": {
+    "x": 1184.857142857143,
+    "y": 225.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283927": {
+    "x": 1178.571428571429,
+    "y": 223.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283928": {
+    "x": 1172.2857142857142,
+    "y": 221.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283929": {
+    "x": 1166.0,
+    "y": 219.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283930": {
+    "x": 1165.0,
+    "y": 219.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283931": {
+    "x": 1161.0,
+    "y": 219.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283932": {
+    "x": 1157.0,
+    "y": 219.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283933": {
+    "x": 1153.0,
+    "y": 219.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283934": {
+    "x": 1146.0,
+    "y": 221.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283935": {
+    "x": 1143.0,
+    "y": 221.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283936": {
+    "x": 1134.0,
+    "y": 224.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283937": {
+    "x": 1128.0,
+    "y": 226.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283938": {
+    "x": 1125.0,
+    "y": 227.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283939": {
+    "x": 1118.0,
+    "y": 230.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283940": {
+    "x": 1113.0,
+    "y": 235.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283941": {
+    "x": 1106.0,
+    "y": 238.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283942": {
+    "x": 1100.0,
+    "y": 243.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283943": {
+    "x": 1093.0,
+    "y": 248.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283944": {
+    "x": 1090.0,
+    "y": 251.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283945": {
+    "x": 1083.0,
+    "y": 258.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283946": {
+    "x": 1075.0,
+    "y": 264.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283947": {
+    "x": 1071.0,
+    "y": 269.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283948": {
+    "x": 1064.0,
+    "y": 277.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283949": {
+    "x": 1058.0,
+    "y": 284.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283950": {
+    "x": 1054.0,
+    "y": 292.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283951": {
+    "x": 1045.0,
+    "y": 301.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283952": {
+    "x": 1040.0,
+    "y": 310.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283953": {
+    "x": 1036.0,
+    "y": 318.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283954": {
+    "x": 1028.0,
+    "y": 328.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283955": {
+    "x": 1023.0,
+    "y": 340.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283956": {
+    "x": 1015.0,
+    "y": 350.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283957": {
+    "x": 1009.0,
+    "y": 362.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283958": {
+    "x": 1003.0,
+    "y": 373.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283959": {
+    "x": 998.0,
+    "y": 385.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283960": {
+    "x": 993.0,
+    "y": 396.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283961": {
+    "x": 984.0,
+    "y": 413.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283962": {
+    "x": 978.0,
+    "y": 424.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283963": {
+    "x": 973.0,
+    "y": 439.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283964": {
+    "x": 966.0,
+    "y": 452.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283965": {
+    "x": 956.0,
+    "y": 474.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283966": {
+    "x": 952.0,
+    "y": 490.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283967": {
+    "x": 947.0,
+    "y": 504.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283968": {
+    "x": 942.0,
+    "y": 520.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283969": {
+    "x": 934.0,
+    "y": 537.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283970": {
+    "x": 925.0,
+    "y": 557.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283971": {
+    "x": 921.0,
+    "y": 576.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283972": {
+    "x": 913.0,
+    "y": 594.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283973": {
+    "x": 906.0,
+    "y": 618.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283974": {
+    "x": 903.0,
+    "y": 636.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283975": {
+    "x": 893.0,
+    "y": 656.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283976": {
+    "x": 885.0,
+    "y": 682.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283977": {
+    "x": 880.0,
+    "y": 700.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283978": {
+    "x": 873.0,
+    "y": 728.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283979": {
+    "x": 864.0,
+    "y": 753.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283980": {
+    "x": 858.0,
+    "y": 776.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283981": {
+    "x": 852.0742574257425,
+    "y": 785.1930693069305,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "bounce"
+  },
+  "283982": {
+    "x": 846.0,
+    "y": 778.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283983": {
+    "x": 843.0,
+    "y": 773.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283984": {
+    "x": 833.0,
+    "y": 767.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283985": {
+    "x": 827.0,
+    "y": 762.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283986": {
+    "x": 822.0,
+    "y": 758.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283987": {
+    "x": 818.0,
+    "y": 753.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283988": {
+    "x": 809.0,
+    "y": 750.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283989": {
+    "x": 805.0,
+    "y": 748.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283990": {
+    "x": 797.0,
+    "y": 744.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283991": {
+    "x": 789.0,
+    "y": 742.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283992": {
+    "x": 785.0,
+    "y": 740.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283993": {
+    "x": 775.0,
+    "y": 739.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283994": {
+    "x": 769.0,
+    "y": 737.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283995": {
+    "x": 763.0,
+    "y": 737.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283996": {
+    "x": 757.0,
+    "y": 739.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283997": {
+    "x": 746.0,
+    "y": 739.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "283998": {
+    "x": 745.638613861386,
+    "y": 730.737623762376,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "283999": {
+    "x": 744.0,
+    "y": 696.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284000": {
+    "x": 743.0,
+    "y": 658.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284001": {
+    "x": 741.0,
+    "y": 637.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284002": {
+    "x": 741.0,
+    "y": 615.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284003": {
+    "x": 739.0,
+    "y": 589.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284004": {
+    "x": 738.0,
+    "y": 574.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284005": {
+    "x": 738.0,
+    "y": 555.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284006": {
+    "x": 736.0,
+    "y": 536.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284007": {
+    "x": 736.0,
+    "y": 524.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284008": {
+    "x": 736.0,
+    "y": 513.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284009": {
+    "x": 732.0,
+    "y": 498.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284010": {
+    "x": 732.0,
+    "y": 489.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284011": {
+    "x": 731.0,
+    "y": 478.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284012": {
+    "x": 729.0,
+    "y": 469.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284013": {
+    "x": 729.0,
+    "y": 465.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284014": {
+    "x": 729.0,
+    "y": 457.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284015": {
+    "x": 728.0,
+    "y": 449.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284016": {
+    "x": 728.0,
+    "y": 447.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284017": {
+    "x": 728.0,
+    "y": 443.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284018": {
+    "x": 726.0,
+    "y": 438.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284019": {
+    "x": 727.0,
+    "y": 435.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284020": {
+    "x": 725.0,
+    "y": 432.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284021": {
+    "x": 723.0,
+    "y": 429.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284022": {
+    "x": 723.0602310231022,
+    "y": 429.5783828382838,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284023": {
+    "x": 723.1204620462046,
+    "y": 430.1567656765676,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284024": {
+    "x": 723.1806930693069,
+    "y": 430.7351485148514,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284025": {
+    "x": 723.2409240924092,
+    "y": 431.3135313531352,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284026": {
+    "x": 723.3011551155114,
+    "y": 431.891914191419,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284027": {
+    "x": 723.3613861386137,
+    "y": 432.4702970297028,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "air"
+  },
+  "284028": {
+    "x": 723.0,
+    "y": 429.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284029": {
+    "x": 722.0,
+    "y": 415.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284030": {
+    "x": 717.0,
+    "y": 400.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284031": {
+    "x": 717.0,
+    "y": 388.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284032": {
+    "x": 715.0,
+    "y": 376.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284033": {
+    "x": 715.0,
+    "y": 365.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284034": {
+    "x": 716.0,
+    "y": 354.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284035": {
+    "x": 714.0,
+    "y": 344.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284036": {
+    "x": 713.0,
+    "y": 333.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284037": {
+    "x": 713.0,
+    "y": 324.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284038": {
+    "x": 712.0,
+    "y": 315.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284039": {
+    "x": 712.0,
+    "y": 306.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284040": {
+    "x": 712.0,
+    "y": 299.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284041": {
+    "x": 711.0,
+    "y": 293.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284042": {
+    "x": 709.0,
+    "y": 285.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284043": {
+    "x": 708.0,
+    "y": 278.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284044": {
+    "x": 708.0,
+    "y": 273.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284045": {
+    "x": 708.0,
+    "y": 267.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284046": {
+    "x": 707.0,
+    "y": 263.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284047": {
+    "x": 707.0,
+    "y": 259.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284048": {
+    "x": 704.0,
+    "y": 253.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284049": {
+    "x": 705.0,
+    "y": 251.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284050": {
+    "x": 704.0,
+    "y": 247.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284051": {
+    "x": 702.0,
+    "y": 242.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284052": {
+    "x": 703.0,
+    "y": 242.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284053": {
+    "x": 703.0,
+    "y": 238.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284054": {
+    "x": 702.0,
+    "y": 236.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284055": {
+    "x": 702.1299504950495,
+    "y": 235.664603960396,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284056": {
+    "x": 702.2599009900989,
+    "y": 235.329207920792,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284057": {
+    "x": 702.3898514851485,
+    "y": 234.99381188118804,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284058": {
+    "x": 702.5198019801979,
+    "y": 234.6584158415841,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284059": {
+    "x": 702.6497524752474,
+    "y": 234.32301980198005,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284060": {
+    "x": 702.779702970297,
+    "y": 233.98762376237607,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284061": {
+    "x": 702.9096534653464,
+    "y": 233.6522277227721,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284062": {
+    "x": 703.0396039603959,
+    "y": 233.3168316831681,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284063": {
+    "x": 703.1695544554453,
+    "y": 232.9814356435641,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284064": {
+    "x": 703.2995049504948,
+    "y": 232.64603960396013,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284065": {
+    "x": 703.4294554455444,
+    "y": 232.31064356435613,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284066": {
+    "x": 703.5594059405938,
+    "y": 231.97524752475212,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "284067": {
+    "x": 704.0,
+    "y": 228.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284068": {
+    "x": 708.0,
+    "y": 224.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284069": {
+    "x": 712.0,
+    "y": 219.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284070": {
+    "x": 716.1428571428571,
+    "y": 215.14285714285717,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284071": {
+    "x": 720.2857142857143,
+    "y": 211.28571428571428,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284072": {
+    "x": 724.4285714285714,
+    "y": 207.42857142857144,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284073": {
+    "x": 728.5714285714286,
+    "y": 203.57142857142856,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284074": {
+    "x": 732.7142857142857,
+    "y": 199.7142857142857,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284075": {
+    "x": 736.8571428571429,
+    "y": 195.8571428571429,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284076": {
+    "x": 741.0,
+    "y": 192.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284077": {
+    "x": 745.0,
+    "y": 190.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284078": {
+    "x": 756.0,
+    "y": 189.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284079": {
+    "x": 755.0,
+    "y": 188.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284080": {
+    "x": 761.0,
+    "y": 188.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284081": {
+    "x": 769.0,
+    "y": 187.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284082": {
+    "x": 770.0,
+    "y": 187.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284083": {
+    "x": 774.0,
+    "y": 188.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284084": {
+    "x": 784.0,
+    "y": 189.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284085": {
+    "x": 787.0,
+    "y": 189.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284086": {
+    "x": 793.0,
+    "y": 193.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284087": {
+    "x": 800.0,
+    "y": 196.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284088": {
+    "x": 802.0,
+    "y": 197.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284089": {
+    "x": 812.0,
+    "y": 201.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284090": {
+    "x": 818.0,
+    "y": 206.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284091": {
+    "x": 820.0,
+    "y": 207.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284092": {
+    "x": 828.0,
+    "y": 214.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284093": {
+    "x": 835.0,
+    "y": 220.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284094": {
+    "x": 836.0,
+    "y": 223.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284095": {
+    "x": 846.0,
+    "y": 229.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284096": {
+    "x": 853.0,
+    "y": 237.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284097": {
+    "x": 857.0,
+    "y": 242.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284098": {
+    "x": 863.0,
+    "y": 251.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284099": {
+    "x": 873.0,
+    "y": 260.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284100": {
+    "x": 877.0,
+    "y": 266.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284101": {
+    "x": 883.0,
+    "y": 275.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284102": {
+    "x": 890.0,
+    "y": 285.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284103": {
+    "x": 894.0,
+    "y": 294.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284104": {
+    "x": 904.0,
+    "y": 305.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284105": {
+    "x": 910.0,
+    "y": 317.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284106": {
+    "x": 914.0,
+    "y": 326.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284107": {
+    "x": 921.0,
+    "y": 340.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284108": {
+    "x": 927.0,
+    "y": 352.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284109": {
+    "x": 935.0,
+    "y": 364.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284110": {
+    "x": 942.0,
+    "y": 377.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284111": {
+    "x": 949.0,
+    "y": 392.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284112": {
+    "x": 953.0,
+    "y": 405.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284113": {
+    "x": 964.0,
+    "y": 422.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284114": {
+    "x": 969.0,
+    "y": 438.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284115": {
+    "x": 973.0,
+    "y": 453.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284116": {
+    "x": 982.0,
+    "y": 471.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284117": {
+    "x": 993.0,
+    "y": 489.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284118": {
+    "x": 996.0,
+    "y": 504.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284119": {
+    "x": 1003.0,
+    "y": 522.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284120": {
+    "x": 1012.0,
+    "y": 545.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284121": {
+    "x": 1015.0,
+    "y": 562.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284122": {
+    "x": 1026.0,
+    "y": 579.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284123": {
+    "x": 1033.0,
+    "y": 606.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284124": {
+    "x": 1039.0,
+    "y": 625.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284125": {
+    "x": 1045.0,
+    "y": 645.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284126": {
+    "x": 1057.0,
+    "y": 671.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284127": {
+    "x": 1060.0,
+    "y": 685.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284128": {
+    "x": 1068.0,
+    "y": 704.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284129": {
+    "x": 1068.658415841584,
+    "y": 713.4108910891086,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "bounce"
+  },
+  "284130": {
+    "x": 1076.4389438943892,
+    "y": 710.6072607260725,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284131": {
+    "x": 1084.2194719471947,
+    "y": 707.8036303630362,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284132": {
+    "x": 1092.0,
+    "y": 705.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284133": {
+    "x": 1094.0,
+    "y": 700.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284134": {
+    "x": 1101.0,
+    "y": 698.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284135": {
+    "x": 1107.0,
+    "y": 692.5,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284136": {
+    "x": 1113.0,
+    "y": 687.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284137": {
+    "x": 1120.0,
+    "y": 684.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284138": {
+    "x": 1126.0,
+    "y": 680.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284139": {
+    "x": 1130.0,
+    "y": 677.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284140": {
+    "x": 1135.0,
+    "y": 676.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284141": {
+    "x": 1144.0,
+    "y": 674.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284142": {
+    "x": 1148.0,
+    "y": 672.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284143": {
+    "x": 1154.0,
+    "y": 672.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284144": {
+    "x": 1161.0,
+    "y": 672.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284145": {
+    "x": 1161.8589108910892,
+    "y": 667.3341584158414,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284146": {
+    "x": 1162.7178217821784,
+    "y": 662.6683168316829,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "284147": {
+    "x": 1146.0,
+    "y": 634.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284148": {
+    "x": 1116.0,
+    "y": 594.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284149": {
+    "x": 1103.0,
+    "y": 575.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284150": {
+    "x": 1084.0,
+    "y": 547.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284151": {
+    "x": 1068.0,
+    "y": 526.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284152": {
+    "x": 1058.0,
+    "y": 513.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284153": {
+    "x": 1042.0,
+    "y": 495.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284154": {
+    "x": 1030.0,
+    "y": 477.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284155": {
+    "x": 1016.0,
+    "y": 466.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284156": {
+    "x": 1009.0,
+    "y": 452.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284157": {
+    "x": 1000.0,
+    "y": 441.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284158": {
+    "x": 987.0,
+    "y": 429.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284159": {
+    "x": 981.0,
+    "y": 418.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284160": {
+    "x": 972.0,
+    "y": 410.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284161": {
+    "x": 965.0,
+    "y": 402.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284162": {
+    "x": 955.0,
+    "y": 395.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284163": {
+    "x": 951.0,
+    "y": 388.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284164": {
+    "x": 943.0,
+    "y": 383.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284165": {
+    "x": 936.0,
+    "y": 378.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284166": {
+    "x": 933.0,
+    "y": 373.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284167": {
+    "x": 924.0,
+    "y": 371.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284168": {
+    "x": 919.0,
+    "y": 366.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284169": {
+    "x": 914.0,
+    "y": 363.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284170": {
+    "x": 909.0,
+    "y": 362.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284171": {
+    "x": 904.0,
+    "y": 358.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284172": {
+    "x": 901.0,
+    "y": 357.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284173": {
+    "x": 896.0,
+    "y": 357.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284174": {
+    "x": 893.0,
+    "y": 356.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284175": {
+    "x": 889.0,
+    "y": 356.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284176": {
+    "x": 886.0,
+    "y": 357.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284177": {
+    "x": 882.0,
+    "y": 357.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284178": {
+    "x": 879.0,
+    "y": 358.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284179": {
+    "x": 875.0,
+    "y": 363.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284180": {
+    "x": 868.0,
+    "y": 363.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284181": {
+    "x": 866.0,
+    "y": 364.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284182": {
+    "x": 864.0,
+    "y": 367.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284183": {
+    "x": 863.0,
+    "y": 370.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284184": {
+    "x": 860.7376237623761,
+    "y": 371.8267326732671,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "bounce"
+  },
+  "284185": {
+    "x": 859.0,
+    "y": 367.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "bounce"
+  },
+  "284186": {
+    "x": 856.0,
+    "y": 357.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284187": {
+    "x": 855.0,
+    "y": 347.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284188": {
+    "x": 851.0,
+    "y": 336.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284189": {
+    "x": 849.0,
+    "y": 327.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284190": {
+    "x": 847.0,
+    "y": 319.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284191": {
+    "x": 845.0,
+    "y": 309.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284192": {
+    "x": 842.0,
+    "y": 303.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284193": {
+    "x": 843.0,
+    "y": 294.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284194": {
+    "x": 836.0,
+    "y": 286.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284195": {
+    "x": 833.0,
+    "y": 279.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284196": {
+    "x": 833.0,
+    "y": 274.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284197": {
+    "x": 831.0,
+    "y": 267.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284198": {
+    "x": 829.0,
+    "y": 263.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284199": {
+    "x": 826.0,
+    "y": 256.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284200": {
+    "x": 823.0,
+    "y": 251.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284201": {
+    "x": 820.0,
+    "y": 245.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284202": {
+    "x": 819.0,
+    "y": 244.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284203": {
+    "x": 818.0,
+    "y": 239.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284204": {
+    "x": 815.0,
+    "y": 236.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284205": {
+    "x": 813.0,
+    "y": 232.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284206": {
+    "x": 807.0,
+    "y": 229.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284207": {
+    "x": 806.0,
+    "y": 226.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284208": {
+    "x": 805.0156765676568,
+    "y": 224.72689768976892,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284209": {
+    "x": 804.0313531353135,
+    "y": 223.4537953795379,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284210": {
+    "x": 803.0470297029701,
+    "y": 222.1806930693068,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284211": {
+    "x": 802.0627062706269,
+    "y": 220.90759075907576,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284212": {
+    "x": 801.0783828382837,
+    "y": 219.63448844884468,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284213": {
+    "x": 800.0940594059404,
+    "y": 218.36138613861365,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "284214": {
+    "x": 805.0,
+    "y": 216.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284215": {
+    "x": 807.0,
+    "y": 215.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284216": {
+    "x": 815.0,
+    "y": 211.5,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284217": {
+    "x": 823.0,
+    "y": 208.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284218": {
+    "x": 833.0,
+    "y": 208.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284219": {
+    "x": 843.0,
+    "y": 208.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284220": {
+    "x": 848.8571428571429,
+    "y": 209.28571428571428,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284221": {
+    "x": 854.7142857142857,
+    "y": 210.57142857142856,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284222": {
+    "x": 860.5714285714286,
+    "y": 211.8571428571429,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284223": {
+    "x": 866.4285714285714,
+    "y": 213.14285714285717,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284224": {
+    "x": 872.2857142857143,
+    "y": 214.42857142857144,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284225": {
+    "x": 878.1428571428571,
+    "y": 215.7142857142857,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284226": {
+    "x": 884.0,
+    "y": 217.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284227": {
+    "x": 891.0,
+    "y": 224.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284228": {
+    "x": 903.0,
+    "y": 226.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284229": {
+    "x": 905.0,
+    "y": 228.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284230": {
+    "x": 912.0,
+    "y": 232.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284231": {
+    "x": 921.0,
+    "y": 238.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284232": {
+    "x": 923.0,
+    "y": 243.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284233": {
+    "x": 934.0,
+    "y": 251.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284234": {
+    "x": 940.0,
+    "y": 258.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284235": {
+    "x": 943.0,
+    "y": 263.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284236": {
+    "x": 951.0,
+    "y": 272.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284237": {
+    "x": 956.0,
+    "y": 282.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284238": {
+    "x": 964.0,
+    "y": 289.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284239": {
+    "x": 970.0,
+    "y": 298.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284240": {
+    "x": 978.0,
+    "y": 310.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284241": {
+    "x": 983.0,
+    "y": 319.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284242": {
+    "x": 993.0,
+    "y": 333.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284243": {
+    "x": 998.0,
+    "y": 346.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284244": {
+    "x": 1002.0,
+    "y": 355.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284245": {
+    "x": 1010.0,
+    "y": 370.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284246": {
+    "x": 1016.0,
+    "y": 383.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284247": {
+    "x": 1023.0,
+    "y": 396.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284248": {
+    "x": 1029.0,
+    "y": 411.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284249": {
+    "x": 1037.0,
+    "y": 429.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284250": {
+    "x": 1041.0,
+    "y": 446.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284251": {
+    "x": 1045.0,
+    "y": 458.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284252": {
+    "x": 1056.0,
+    "y": 478.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284253": {
+    "x": 1060.0,
+    "y": 496.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284254": {
+    "x": 1068.0,
+    "y": 516.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284255": {
+    "x": 1074.0,
+    "y": 537.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284256": {
+    "x": 1082.0,
+    "y": 556.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284257": {
+    "x": 1088.0,
+    "y": 576.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284258": {
+    "x": 1099.0,
+    "y": 603.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284259": {
+    "x": 1101.0,
+    "y": 622.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284260": {
+    "x": 1106.0,
+    "y": 644.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284261": {
+    "x": 1116.0,
+    "y": 670.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284262": {
+    "x": 1121.0,
+    "y": 692.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284263": {
+    "x": 1128.0,
+    "y": 714.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284264": {
+    "x": 1134.0,
+    "y": 743.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284265": {
+    "x": 1131.7772277227723,
+    "y": 746.8267326732671,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "bounce"
+  },
+  "284266": {
+    "x": 1146.0,
+    "y": 738.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284267": {
+    "x": 1155.0,
+    "y": 732.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284268": {
+    "x": 1160.0,
+    "y": 728.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284269": {
+    "x": 1166.0,
+    "y": 725.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284270": {
+    "x": 1177.0,
+    "y": 722.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284271": {
+    "x": 1182.0,
+    "y": 717.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284272": {
+    "x": 1191.0,
+    "y": 716.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284273": {
+    "x": 1197.0,
+    "y": 716.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284274": {
+    "x": 1205.0,
+    "y": 713.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284275": {
+    "x": 1214.0,
+    "y": 713.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284276": {
+    "x": 1223.0,
+    "y": 713.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284277": {
+    "x": 1226.0,
+    "y": 713.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284278": {
+    "x": 1238.0,
+    "y": 715.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284279": {
+    "x": 1248.0,
+    "y": 716.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284280": {
+    "x": 1252.0,
+    "y": 717.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284281": {
+    "x": 1256.7772277227723,
+    "y": 719.5990099009898,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "air"
+  },
+  "284282": {
+    "x": 1235.0,
+    "y": 686.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284283": {
+    "x": 1196.0,
+    "y": 650.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284284": {
+    "x": 1181.0,
+    "y": 629.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284285": {
+    "x": 1154.0,
+    "y": 603.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284286": {
+    "x": 1134.0,
+    "y": 581.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284287": {
+    "x": 1121.0,
+    "y": 565.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284288": {
+    "x": 1097.0,
+    "y": 543.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284289": {
+    "x": 1084.0,
+    "y": 530.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284290": {
+    "x": 1069.0,
+    "y": 517.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284291": {
+    "x": 1055.0,
+    "y": 503.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284292": {
+    "x": 1041.0,
+    "y": 492.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284293": {
+    "x": 1029.0,
+    "y": 479.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284294": {
+    "x": 1014.0,
+    "y": 471.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284295": {
+    "x": 1003.0,
+    "y": 462.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284296": {
+    "x": 994.0,
+    "y": 455.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284297": {
+    "x": 980.0,
+    "y": 448.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284298": {
+    "x": 972.0,
+    "y": 441.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284299": {
+    "x": 957.0,
+    "y": 434.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284300": {
+    "x": 952.0,
+    "y": 430.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284301": {
+    "x": 943.0,
+    "y": 426.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284302": {
+    "x": 936.0,
+    "y": 423.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284303": {
+    "x": 926.0,
+    "y": 419.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284304": {
+    "x": 920.0,
+    "y": 417.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284305": {
+    "x": 912.0,
+    "y": 415.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284306": {
+    "x": 906.0,
+    "y": 414.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284307": {
+    "x": 897.0,
+    "y": 413.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284308": {
+    "x": 892.0,
+    "y": 412.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284309": {
+    "x": 885.0,
+    "y": 412.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284310": {
+    "x": 880.0,
+    "y": 413.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284311": {
+    "x": 875.0,
+    "y": 414.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284312": {
+    "x": 866.0,
+    "y": 415.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284313": {
+    "x": 864.0,
+    "y": 416.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284314": {
+    "x": 860.0,
+    "y": 417.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284315": {
+    "x": 854.5495049504949,
+    "y": 420.0940594059402,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "air"
+  },
+  "284316": {
+    "x": 850.0,
+    "y": 417.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "bounce"
+  },
+  "284317": {
+    "x": 846.0,
+    "y": 407.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284318": {
+    "x": 844.0,
+    "y": 395.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284319": {
+    "x": 837.0,
+    "y": 384.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284320": {
+    "x": 833.0,
+    "y": 374.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284321": {
+    "x": 831.0,
+    "y": 365.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284322": {
+    "x": 828.0,
+    "y": 355.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284323": {
+    "x": 824.0,
+    "y": 346.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284324": {
+    "x": 821.0,
+    "y": 337.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284325": {
+    "x": 817.0,
+    "y": 330.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284326": {
+    "x": 814.0,
+    "y": 324.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284327": {
+    "x": 805.0,
+    "y": 316.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284328": {
+    "x": 803.0330783078308,
+    "y": 313.30580558055806,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284329": {
+    "x": 801.0661566156616,
+    "y": 310.6116111611161,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284330": {
+    "x": 799.0992349234923,
+    "y": 307.9174167416741,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284331": {
+    "x": 797.1323132313231,
+    "y": 305.2232223222322,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284332": {
+    "x": 795.1653915391539,
+    "y": 302.52902790279023,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284333": {
+    "x": 793.1984698469847,
+    "y": 299.8348334833483,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284334": {
+    "x": 791.2315481548154,
+    "y": 297.14063906390635,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284335": {
+    "x": 789.2646264626462,
+    "y": 294.4464446444644,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284336": {
+    "x": 787.297704770477,
+    "y": 291.7522502250224,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284337": {
+    "x": 785.3307830783078,
+    "y": 289.05805580558047,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284338": {
+    "x": 783.3638613861385,
+    "y": 286.3638613861385,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284339": {
+    "x": 781.3969396939693,
+    "y": 283.6696669666966,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284340": {
+    "x": 779.4300180018001,
+    "y": 280.97547254725464,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284341": {
+    "x": 777.4630963096309,
+    "y": 278.2812781278127,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284342": {
+    "x": 775.4961746174617,
+    "y": 275.5870837083707,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284343": {
+    "x": 773.5292529252924,
+    "y": 272.8928892889288,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284344": {
+    "x": 771.5623312331232,
+    "y": 270.1986948694868,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284345": {
+    "x": 769.595409540954,
+    "y": 267.5045004500449,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284346": {
+    "x": 767.6284878487849,
+    "y": 264.81030603060293,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284347": {
+    "x": 765.6615661566157,
+    "y": 262.11611161116093,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284348": {
+    "x": 763.6946444644464,
+    "y": 259.421917191719,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284349": {
+    "x": 761.7277227722772,
+    "y": 256.72772277227705,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "284350": {
+    "x": 771.0252025202519,
+    "y": 259.6615661566155,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284351": {
+    "x": 780.3226822682268,
+    "y": 262.59540954095394,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284352": {
+    "x": 789.6201620162016,
+    "y": 265.5292529252924,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284353": {
+    "x": 798.9176417641763,
+    "y": 268.4630963096308,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284354": {
+    "x": 808.2151215121512,
+    "y": 271.3969396939693,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284355": {
+    "x": 817.512601260126,
+    "y": 274.3307830783078,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284356": {
+    "x": 826.8100810081007,
+    "y": 277.2646264626462,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284357": {
+    "x": 836.1075607560756,
+    "y": 280.19846984698466,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284358": {
+    "x": 845.4050405040504,
+    "y": 283.1323132313231,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284359": {
+    "x": 854.7025202520252,
+    "y": 286.06615661566155,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284360": {
+    "x": 864.0,
+    "y": 289.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284361": {
+    "x": 873.0,
+    "y": 294.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284362": {
+    "x": 884.0,
+    "y": 301.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284363": {
+    "x": 893.0,
+    "y": 307.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284364": {
+    "x": 903.0,
+    "y": 313.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284365": {
+    "x": 914.0,
+    "y": 321.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284366": {
+    "x": 925.0,
+    "y": 332.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284367": {
+    "x": 934.0,
+    "y": 338.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284368": {
+    "x": 945.0,
+    "y": 349.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284369": {
+    "x": 955.0,
+    "y": 361.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284370": {
+    "x": 965.0,
+    "y": 370.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284371": {
+    "x": 977.0,
+    "y": 382.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284372": {
+    "x": 989.0,
+    "y": 396.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284373": {
+    "x": 997.0,
+    "y": 409.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284374": {
+    "x": 1009.0,
+    "y": 421.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284375": {
+    "x": 1023.0,
+    "y": 436.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284376": {
+    "x": 1030.0,
+    "y": 452.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284377": {
+    "x": 1042.0,
+    "y": 467.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284378": {
+    "x": 1058.0,
+    "y": 487.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284379": {
+    "x": 1067.0,
+    "y": 502.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284380": {
+    "x": 1082.0,
+    "y": 521.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284381": {
+    "x": 1093.0,
+    "y": 543.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284382": {
+    "x": 1103.0,
+    "y": 560.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284383": {
+    "x": 1116.0,
+    "y": 578.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284384": {
+    "x": 1131.0,
+    "y": 605.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284385": {
+    "x": 1142.0,
+    "y": 623.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284386": {
+    "x": 1154.0,
+    "y": 647.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284387": {
+    "x": 1166.0,
+    "y": 673.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284388": {
+    "x": 1181.0,
+    "y": 697.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284389": {
+    "x": 1194.0,
+    "y": 725.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284390": {
+    "x": 1206.0,
+    "y": 746.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284391": {
+    "x": 1211.0,
+    "y": 761.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "bounce"
+  },
+  "284392": {
+    "x": 1223.368811881188,
+    "y": 783.6163366336633,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284393": {
+    "x": 1235.7376237623762,
+    "y": 806.2326732673266,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "bounce"
+  },
+  "284394": {
+    "x": 1247.8032178217825,
+    "y": 802.174504950495,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284395": {
+    "x": 1259.868811881188,
+    "y": 798.1163366336633,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284396": {
+    "x": 1271.934405940594,
+    "y": 794.0581683168316,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284397": {
+    "x": 1284.0,
+    "y": 790.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284398": {
+    "x": 1298.0,
+    "y": 790.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284399": {
+    "x": 1310.0,
+    "y": 792.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284400": {
+    "x": 1323.0,
+    "y": 791.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284401": {
+    "x": 1336.0,
+    "y": 795.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284402": {
+    "x": 1345.0,
+    "y": 798.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284403": {
+    "x": 1360.0,
+    "y": 801.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284404": {
+    "x": 1368.496699669967,
+    "y": 797.3811881188118,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284405": {
+    "x": 1376.9933993399338,
+    "y": 793.7623762376237,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284406": {
+    "x": 1385.4900990099009,
+    "y": 790.1435643564355,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "284407": {
+    "x": 1366.0,
+    "y": 746.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284408": {
+    "x": 1345.0,
+    "y": 709.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284409": {
+    "x": 1336.0,
+    "y": 675.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284410": {
+    "x": 1327.0,
+    "y": 652.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284411": {
+    "x": 1313.0,
+    "y": 625.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284412": {
+    "x": 1304.0,
+    "y": 599.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284413": {
+    "x": 1298.0,
+    "y": 584.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284414": {
+    "x": 1285.0,
+    "y": 561.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284415": {
+    "x": 1279.0,
+    "y": 542.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284416": {
+    "x": 1274.0,
+    "y": 529.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284417": {
+    "x": 1266.0,
+    "y": 513.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284418": {
+    "x": 1256.0,
+    "y": 500.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284419": {
+    "x": 1252.0,
+    "y": 486.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284420": {
+    "x": 1247.0,
+    "y": 474.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284421": {
+    "x": 1241.0,
+    "y": 465.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284422": {
+    "x": 1237.0,
+    "y": 454.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284423": {
+    "x": 1231.0,
+    "y": 446.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284424": {
+    "x": 1224.0,
+    "y": 437.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284425": {
+    "x": 1219.0,
+    "y": 431.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284426": {
+    "x": 1215.0,
+    "y": 425.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284427": {
+    "x": 1211.0,
+    "y": 419.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284428": {
+    "x": 1208.0,
+    "y": 416.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284429": {
+    "x": 1204.0,
+    "y": 410.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284430": {
+    "x": 1197.0,
+    "y": 407.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284431": {
+    "x": 1194.0,
+    "y": 405.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284432": {
+    "x": 1192.0,
+    "y": 403.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284433": {
+    "x": 1190.0,
+    "y": 400.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284434": {
+    "x": 1186.0,
+    "y": 400.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284435": {
+    "x": 1182.0,
+    "y": 398.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284436": {
+    "x": 1181.0,
+    "y": 396.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284437": {
+    "x": 1178.0,
+    "y": 397.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284438": {
+    "x": 1176.0717821782175,
+    "y": 398.3737623762376,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284439": {
+    "x": 1174.1435643564355,
+    "y": 399.7475247524752,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284440": {
+    "x": 1172.2153465346537,
+    "y": 401.1212871287128,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284441": {
+    "x": 1170.2871287128712,
+    "y": 402.4950495049504,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284442": {
+    "x": 1168.3589108910892,
+    "y": 403.8688118811879,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284443": {
+    "x": 1166.430693069307,
+    "y": 405.24257425742553,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "air"
+  },
+  "284444": {
+    "x": 1159.0,
+    "y": 402.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284445": {
+    "x": 1159.0,
+    "y": 394.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284446": {
+    "x": 1158.0,
+    "y": 382.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284447": {
+    "x": 1155.0,
+    "y": 371.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284448": {
+    "x": 1152.0,
+    "y": 362.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284449": {
+    "x": 1151.0,
+    "y": 353.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284450": {
+    "x": 1149.0,
+    "y": 342.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284451": {
+    "x": 1148.0,
+    "y": 334.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284452": {
+    "x": 1147.0,
+    "y": 327.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284453": {
+    "x": 1145.0,
+    "y": 319.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284454": {
+    "x": 1143.0,
+    "y": 312.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284455": {
+    "x": 1137.0,
+    "y": 305.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284456": {
+    "x": 1137.0,
+    "y": 298.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284457": {
+    "x": 1136.0,
+    "y": 294.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284458": {
+    "x": 1134.0,
+    "y": 289.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284459": {
+    "x": 1133.0,
+    "y": 284.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284460": {
+    "x": 1132.0,
+    "y": 278.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284461": {
+    "x": 1131.0,
+    "y": 275.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284462": {
+    "x": 1127.0,
+    "y": 271.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284463": {
+    "x": 1129.0,
+    "y": 267.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284464": {
+    "x": 1128.0,
+    "y": 266.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284465": {
+    "x": 1126.0,
+    "y": 263.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284466": {
+    "x": 1122.700495049505,
+    "y": 259.8638613861385,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284467": {
+    "x": 1119.40099009901,
+    "y": 256.72772277227705,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "284468": {
+    "x": 1111.8508663366338,
+    "y": 261.0117574257424,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284469": {
+    "x": 1104.3007425742576,
+    "y": 265.2957920792078,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284470": {
+    "x": 1096.7506188118812,
+    "y": 269.57982673267315,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284471": {
+    "x": 1089.200495049505,
+    "y": 273.8638613861385,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284472": {
+    "x": 1081.6503712871288,
+    "y": 278.1478960396039,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284473": {
+    "x": 1074.1002475247524,
+    "y": 282.43193069306926,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284474": {
+    "x": 1066.5501237623762,
+    "y": 286.71596534653463,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284475": {
+    "x": 1059.0,
+    "y": 291.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284476": {
+    "x": 1047.0,
+    "y": 297.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284477": {
+    "x": 1040.0,
+    "y": 302.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284478": {
+    "x": 1033.0,
+    "y": 309.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284479": {
+    "x": 1018.0,
+    "y": 317.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284480": {
+    "x": 1013.0,
+    "y": 324.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284481": {
+    "x": 1005.0,
+    "y": 332.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284482": {
+    "x": 995.0,
+    "y": 340.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284483": {
+    "x": 984.0,
+    "y": 348.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284484": {
+    "x": 977.0,
+    "y": 357.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284485": {
+    "x": 968.0,
+    "y": 367.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284486": {
+    "x": 955.0,
+    "y": 377.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284487": {
+    "x": 949.0,
+    "y": 387.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284488": {
+    "x": 939.0,
+    "y": 398.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284489": {
+    "x": 925.0,
+    "y": 412.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284490": {
+    "x": 918.0,
+    "y": 422.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284491": {
+    "x": 907.0,
+    "y": 435.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284492": {
+    "x": 894.0,
+    "y": 449.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284493": {
+    "x": 887.0,
+    "y": 461.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284494": {
+    "x": 874.0,
+    "y": 476.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284495": {
+    "x": 862.0,
+    "y": 493.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284496": {
+    "x": 853.0,
+    "y": 506.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284497": {
+    "x": 837.0,
+    "y": 521.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284498": {
+    "x": 827.0,
+    "y": 541.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284499": {
+    "x": 817.0,
+    "y": 559.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284500": {
+    "x": 804.0,
+    "y": 574.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284501": {
+    "x": 792.0,
+    "y": 595.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284502": {
+    "x": 783.0,
+    "y": 613.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284503": {
+    "x": 768.0,
+    "y": 633.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284504": {
+    "x": 756.0,
+    "y": 655.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284505": {
+    "x": 742.0,
+    "y": 677.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284506": {
+    "x": 729.0,
+    "y": 700.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284507": {
+    "x": 714.0,
+    "y": 724.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284508": {
+    "x": 703.0,
+    "y": 745.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284509": {
+    "x": 687.0,
+    "y": 769.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284510": {
+    "x": 676.0,
+    "y": 800.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284511": {
+    "x": 668.9059405940592,
+    "y": 796.3316831683167,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "bounce"
+  },
+  "284512": {
+    "x": 654.0,
+    "y": 798.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284513": {
+    "x": 649.0,
+    "y": 798.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284514": {
+    "x": 642.0,
+    "y": 799.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284515": {
+    "x": 626.0,
+    "y": 799.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284516": {
+    "x": 620.0,
+    "y": 800.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284517": {
+    "x": 613.0,
+    "y": 802.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284518": {
+    "x": 597.0,
+    "y": 806.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284519": {
+    "x": 591.0,
+    "y": 808.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284520": {
+    "x": 583.0,
+    "y": 810.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284521": {
+    "x": 570.0,
+    "y": 815.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284522": {
+    "x": 563.1410891089108,
+    "y": 818.6608910891088,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284523": {
+    "x": 556.2821782178218,
+    "y": 822.3217821782175,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "hit"
+  },
+  "284524": {
+    "x": 582.8547854785478,
+    "y": 790.214521452145,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284525": {
+    "x": 609.427392739274,
+    "y": 758.1072607260725,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284526": {
+    "x": 636.0,
+    "y": 726.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284527": {
+    "x": 662.0,
+    "y": 701.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284528": {
+    "x": 682.0,
+    "y": 677.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284529": {
+    "x": 701.0,
+    "y": 657.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284530": {
+    "x": 713.0,
+    "y": 644.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284531": {
+    "x": 739.0,
+    "y": 619.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284532": {
+    "x": 756.0,
+    "y": 605.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284533": {
+    "x": 770.0,
+    "y": 591.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284534": {
+    "x": 792.0,
+    "y": 569.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284535": {
+    "x": 803.0,
+    "y": 558.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284536": {
+    "x": 819.0,
+    "y": 547.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284537": {
+    "x": 834.0,
+    "y": 535.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284538": {
+    "x": 846.0,
+    "y": 525.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284539": {
+    "x": 860.0,
+    "y": 517.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284540": {
+    "x": 874.0,
+    "y": 505.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284541": {
+    "x": 884.0,
+    "y": 498.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284542": {
+    "x": 894.0,
+    "y": 492.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284543": {
+    "x": 908.0,
+    "y": 483.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284544": {
+    "x": 917.0,
+    "y": 477.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284545": {
+    "x": 925.0,
+    "y": 474.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284546": {
+    "x": 925.0,
+    "y": 474.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284547": {
+    "x": 946.0,
+    "y": 463.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284548": {
+    "x": 953.0,
+    "y": 456.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284549": {
+    "x": 957.0,
+    "y": 449.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284550": {
+    "x": 966.0,
+    "y": 442.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284551": {
+    "x": 974.0,
+    "y": 439.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284552": {
+    "x": 981.0,
+    "y": 434.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284553": {
+    "x": 984.0,
+    "y": 430.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284554": {
+    "x": 994.0,
+    "y": 426.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284555": {
+    "x": 998.0,
+    "y": 424.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284556": {
+    "x": 1002.0,
+    "y": 418.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284557": {
+    "x": 1010.0,
+    "y": 418.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284558": {
+    "x": 1015.0,
+    "y": 417.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284559": {
+    "x": 1016.0,
+    "y": 414.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284560": {
+    "x": 1025.0,
+    "y": 415.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284561": {
+    "x": 1030.0,
+    "y": 415.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284562": {
+    "x": 1032.0,
+    "y": 413.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284563": {
+    "x": 1039.0,
+    "y": 414.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284564": {
+    "x": 1044.0,
+    "y": 416.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284565": {
+    "x": 1046.0,
+    "y": 415.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284566": {
+    "x": 1052.0,
+    "y": 417.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284567": {
+    "x": 1057.0,
+    "y": 419.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284568": {
+    "x": 1056.2821782178216,
+    "y": 418.85643564356405,
+    "visible": true,
+    "action": "bounce",
+    "pred_action": "bounce"
+  },
+  "284569": {
+    "x": 1063.0,
+    "y": 414.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284570": {
+    "x": 1068.0,
+    "y": 405.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284571": {
+    "x": 1071.0,
+    "y": 394.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284572": {
+    "x": 1075.0,
+    "y": 388.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284573": {
+    "x": 1077.0,
+    "y": 382.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284574": {
+    "x": 1077.0,
+    "y": 375.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284575": {
+    "x": 1086.0,
+    "y": 368.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284576": {
+    "x": 1091.0,
+    "y": 358.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284577": {
+    "x": 1093.75,
+    "y": 353.75,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284578": {
+    "x": 1096.5,
+    "y": 349.5,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284579": {
+    "x": 1099.25,
+    "y": 345.25,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284580": {
+    "x": 1102.0,
+    "y": 341.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284581": {
+    "x": 1105.0,
+    "y": 338.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284582": {
+    "x": 1112.0,
+    "y": 333.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284583": {
+    "x": 1114.34900990099,
+    "y": 331.189603960396,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284584": {
+    "x": 1116.69801980198,
+    "y": 329.37920792079206,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284585": {
+    "x": 1119.0470297029703,
+    "y": 327.568811881188,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284586": {
+    "x": 1121.3960396039604,
+    "y": 325.75841584158405,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284587": {
+    "x": 1123.7450495049504,
+    "y": 323.9480198019801,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284588": {
+    "x": 1126.0940594059405,
+    "y": 322.1376237623761,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284589": {
+    "x": 1128.4430693069305,
+    "y": 320.32722772277214,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284590": {
+    "x": 1130.7920792079208,
+    "y": 318.5168316831681,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284591": {
+    "x": 1133.1410891089108,
+    "y": 316.70643564356413,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284592": {
+    "x": 1135.4900990099009,
+    "y": 314.89603960396016,
+    "visible": true,
+    "action": "hit",
+    "pred_action": "air"
+  },
+  "284593": {
+    "x": 1136.284799068142,
+    "y": 314.78450786255075,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284594": {
+    "x": 1137.079499126383,
+    "y": 314.67297612114135,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284595": {
+    "x": 1137.8741991846243,
+    "y": 314.5614443797319,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284596": {
+    "x": 1138.668899242865,
+    "y": 314.4499126383225,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284597": {
+    "x": 1139.4635993011066,
+    "y": 314.33838089691307,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284598": {
+    "x": 1140.2582993593476,
+    "y": 314.22684915550366,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284599": {
+    "x": 1141.0529994175888,
+    "y": 314.1153174140942,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284600": {
+    "x": 1141.8476994758298,
+    "y": 314.0037856726848,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284601": {
+    "x": 1142.642399534071,
+    "y": 313.8922539312754,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284602": {
+    "x": 1143.437099592312,
+    "y": 313.780722189866,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284603": {
+    "x": 1144.2317996505533,
+    "y": 313.6691904484565,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284604": {
+    "x": 1145.0264997087943,
+    "y": 313.5576587070471,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284605": {
+    "x": 1145.8211997670355,
+    "y": 313.4461269656377,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284606": {
+    "x": 1146.6158998252763,
+    "y": 313.3345952242283,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284607": {
+    "x": 1147.4105998835178,
+    "y": 313.2230634828188,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284608": {
+    "x": 1148.2052999417588,
+    "y": 313.1115317414094,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284609": {
+    "x": 1149.0,
+    "y": 313.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284610": {
+    "x": 1148.0,
+    "y": 313.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284611": {
+    "x": 1150.0,
+    "y": 315.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284612": {
+    "x": 1151.0,
+    "y": 318.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284613": {
+    "x": 1151.0,
+    "y": 319.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284614": {
+    "x": 1152.0,
+    "y": 322.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284615": {
+    "x": 1153.0,
+    "y": 326.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284616": {
+    "x": 1153.0,
+    "y": 328.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284617": {
+    "x": 1154.0,
+    "y": 333.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284618": {
+    "x": 1156.0,
+    "y": 337.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284619": {
+    "x": 1155.0,
+    "y": 336.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284620": {
+    "x": 1158.0,
+    "y": 343.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284621": {
+    "x": 1159.0,
+    "y": 346.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284622": {
+    "x": 1159.0,
+    "y": 350.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284623": {
+    "x": 1161.0,
+    "y": 356.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284624": {
+    "x": 1163.0,
+    "y": 359.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284625": {
+    "x": 1162.0,
+    "y": 364.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284626": {
+    "x": 1163.0,
+    "y": 372.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284627": {
+    "x": 1164.0,
+    "y": 376.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284628": {
+    "x": 1165.0,
+    "y": 382.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284629": {
+    "x": 1168.0,
+    "y": 390.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284630": {
+    "x": 1168.0,
+    "y": 396.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284631": {
+    "x": 1169.0,
+    "y": 401.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284632": {
+    "x": 1173.0,
+    "y": 410.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284633": {
+    "x": 1173.0,
+    "y": 417.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284634": {
+    "x": 1174.0,
+    "y": 424.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284635": {
+    "x": 1175.0,
+    "y": 433.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284636": {
+    "x": 1177.0,
+    "y": 441.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284637": {
+    "x": 1178.0,
+    "y": 448.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284638": {
+    "x": 1180.0,
+    "y": 459.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284639": {
+    "x": 1179.0,
+    "y": 468.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284640": {
+    "x": 1181.0,
+    "y": 477.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284641": {
+    "x": 1182.0,
+    "y": 487.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284642": {
+    "x": 1185.0,
+    "y": 498.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284643": {
+    "x": 1185.0,
+    "y": 506.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284644": {
+    "x": 1187.0,
+    "y": 517.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284645": {
+    "x": 1189.0,
+    "y": 528.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284646": {
+    "x": 1189.0,
+    "y": 528.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284647": {
+    "x": 1192.0,
+    "y": 525.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284648": {
+    "x": 1193.0,
+    "y": 521.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284649": {
+    "x": 1194.0,
+    "y": 517.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284650": {
+    "x": 1195.0,
+    "y": 514.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284651": {
+    "x": 1202.0,
+    "y": 508.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284652": {
+    "x": 1203.0,
+    "y": 507.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284653": {
+    "x": 1204.0,
+    "y": 506.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284654": {
+    "x": 1206.0,
+    "y": 506.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284655": {
+    "x": 1204.1666666666667,
+    "y": 507.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284656": {
+    "x": 1202.3333333333333,
+    "y": 508.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284657": {
+    "x": 1200.5,
+    "y": 509.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284658": {
+    "x": 1198.6666666666667,
+    "y": 510.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284659": {
+    "x": 1196.8333333333333,
+    "y": 511.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284660": {
+    "x": 1195.0,
+    "y": 512.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284661": {
+    "x": 1195.0,
+    "y": 513.5,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284662": {
+    "x": 1195.0,
+    "y": 515.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284663": {
+    "x": 1194.0,
+    "y": 517.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284664": {
+    "x": 1193.0,
+    "y": 516.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284665": {
+    "x": 1192.0,
+    "y": 520.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284666": {
+    "x": 1191.0,
+    "y": 524.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284667": {
+    "x": 1189.0,
+    "y": 526.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284668": {
+    "x": 1189.0,
+    "y": 531.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284669": {
+    "x": 1188.0,
+    "y": 535.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284670": {
+    "x": 1185.0,
+    "y": 537.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284671": {
+    "x": 1186.0,
+    "y": 535.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284672": {
+    "x": 1188.0,
+    "y": 530.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284673": {
+    "x": 1186.0,
+    "y": 528.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284674": {
+    "x": 1185.0,
+    "y": 524.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284675": {
+    "x": 1185.0,
+    "y": 521.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284676": {
+    "x": 1182.0,
+    "y": 520.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284677": {
+    "x": 1185.0,
+    "y": 520.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284678": {
+    "x": 1184.0,
+    "y": 515.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284679": {
+    "x": 1184.3333333333333,
+    "y": 513.6666666666666,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284680": {
+    "x": 1184.6666666666667,
+    "y": 512.3333333333334,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284681": {
+    "x": 1185.0,
+    "y": 511.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284682": {
+    "x": 1184.6666666666667,
+    "y": 512.3333333333334,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284683": {
+    "x": 1184.3333333333333,
+    "y": 513.6666666666666,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284684": {
+    "x": 1184.0,
+    "y": 515.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284685": {
+    "x": 1183.6666666666667,
+    "y": 516.3333333333334,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284686": {
+    "x": 1183.3333333333333,
+    "y": 517.6666666666666,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284687": {
+    "x": 1183.0,
+    "y": 519.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284688": {
+    "x": 1182.0,
+    "y": 517.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284689": {
+    "x": 1182.0,
+    "y": 521.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284690": {
+    "x": 1183.0,
+    "y": 525.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284691": {
+    "x": 1182.0,
+    "y": 524.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284692": {
+    "x": 1183.0,
+    "y": 527.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284693": {
+    "x": 1182.0,
+    "y": 531.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284694": {
+    "x": 1182.0,
+    "y": 533.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284695": {
+    "x": 1183.0,
+    "y": 531.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284696": {
+    "x": 1183.0,
+    "y": 529.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284697": {
+    "x": 1181.0,
+    "y": 527.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284698": {
+    "x": 1181.0,
+    "y": 523.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284699": {
+    "x": 1181.0,
+    "y": 520.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284700": {
+    "x": 1181.3333333333333,
+    "y": 519.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284701": {
+    "x": 1181.6666666666667,
+    "y": 518.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284702": {
+    "x": 1182.0,
+    "y": 517.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284703": {
+    "x": 1182.0,
+    "y": 518.4,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284704": {
+    "x": 1182.0,
+    "y": 519.8,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284705": {
+    "x": 1182.0,
+    "y": 521.2,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284706": {
+    "x": 1182.0,
+    "y": 522.6,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284707": {
+    "x": 1182.0,
+    "y": 524.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284708": {
+    "x": 1181.0,
+    "y": 521.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284709": {
+    "x": 1179.0,
+    "y": 519.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284710": {
+    "x": 1181.0,
+    "y": 523.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284711": {
+    "x": 1181.0,
+    "y": 525.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284712": {
+    "x": 1178.0,
+    "y": 523.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284713": {
+    "x": 1181.0,
+    "y": 528.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284714": {
+    "x": 1180.0,
+    "y": 532.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284715": {
+    "x": 1181.0,
+    "y": 527.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284716": {
+    "x": 1180.0,
+    "y": 523.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284717": {
+    "x": 1178.0,
+    "y": 521.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284718": {
+    "x": 1178.2222222222222,
+    "y": 520.7777777777778,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284719": {
+    "x": 1178.4444444444443,
+    "y": 520.5555555555555,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284720": {
+    "x": 1178.6666666666667,
+    "y": 520.3333333333334,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284721": {
+    "x": 1178.888888888889,
+    "y": 520.1111111111111,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284722": {
+    "x": 1179.111111111111,
+    "y": 519.8888888888889,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284723": {
+    "x": 1179.3333333333333,
+    "y": 519.6666666666666,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284724": {
+    "x": 1179.5555555555557,
+    "y": 519.4444444444445,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284725": {
+    "x": 1179.7777777777778,
+    "y": 519.2222222222222,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284726": {
+    "x": 1180.0,
+    "y": 519.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284727": {
+    "x": 1179.0,
+    "y": 521.6666666666666,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284728": {
+    "x": 1178.0,
+    "y": 524.3333333333334,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284729": {
+    "x": 1177.0,
+    "y": 527.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284730": {
+    "x": 1177.3333333333333,
+    "y": 524.3333333333334,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284731": {
+    "x": 1177.6666666666667,
+    "y": 521.6666666666666,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284732": {
+    "x": 1178.0,
+    "y": 519.0,
+    "visible": true,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284733": {
+    "x": 1178.0,
+    "y": 519.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284734": {
+    "x": 1178.0,
+    "y": 519.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284735": {
+    "x": 1178.0,
+    "y": 519.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  },
+  "284736": {
+    "x": 1178.0,
+    "y": 519.0,
+    "visible": false,
+    "action": "air",
+    "pred_action": "air"
+  }
+}
